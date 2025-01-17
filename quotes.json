@@ -2,23 +2,18 @@
   "quotes": [
     {
       "id": "1",
-      "text": "ژیان جوانە، با جوانتری بکەین",
-      "author": "هێمن"
+      "author": "ناوی نووسەر",
+      "type": "جۆری وتە",
+      "content": "دەقی وتەکە",
+      "authorImage": "https://example.com/image.jpg"
     },
     {
       "id": "2",
-      "text": "خۆشەویستی هێزێکی گەورەیە",
-      "author": "شێرکۆ بێکەس"
+      "author": "شێرکۆ بێکەس",
+      "type": "جۆری ",
+      "content": "دە",
+      "authorImage": "https://example.com/image.jpg"
     },
-    {
-      "id": "3",
-      "text": "زانست کلیلی سەرکەوتنە",
-      "author": "گۆران"
-    },
-    {
-      "id": "4",
-      "text": "vvv",
-      "author": "مام فریاد"
-    }
+    // وتەکانی تر...
   ]
 }
