@@ -12,5 +12,12 @@
     "type": "ئاینی",
     "content": "دڵ بە خودا بسپێرە و ترست لە هیچ نەبێت",
     "authorImage": "https://example.com/mawlana.jpg"
+  },
+  {
+    "id": "3",
+    "author": "مەولانا خالید",
+    "type": "ئاینی",
+    "content": "دڵ بە خودا بسپێرە و ترست لە هیچ نەبێت",
+    "authorImage": "https://example.com/mawlana.jpg"
   }
 ]
