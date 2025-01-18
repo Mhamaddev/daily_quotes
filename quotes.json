@@ -12,5 +12,12 @@
     "type": "ئاینی",
     "content": "دڵ بە خودا بسپێرە و ترست لە هیچ نەبێت",
     "authorImage": "https://i.ibb.co/JCFpWvF/qazi.jpg"
-  }
+  },
+   {
+    "id": "3",
+    "author": "پێشەوا قازی محەمەد",
+    "type": "سیاسی",
+    "content": "ئێمە کوردین و کوردستان نیشتمانمانە",
+    "authorImage": "https://i.ibb.co/JCFpWvF/qazi.jpg"
+  },
 ]
