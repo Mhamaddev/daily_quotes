@@ -1,12 +1,16 @@
-{
-  "quotes": [
-    {
-      "id": "1",
-      "content": "ناوەڕۆکی وتەکە",
-      "author": "نوسەر",
-      "category": "جۆری وتە",
-      "date": "2024-01-18",
-      "version": "1.0"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "author": "پێشەوا قازی محەمەد",
+    "type": "سیاسی",
+    "content": "ئێمە کوردین و کوردستان نیشتمانمانە",
+    "authorImage": "https://example.com/qazi.jpg"
+  },
+  {
+    "id": "2",
+    "author": "مەولانا خالید",
+    "type": "ئاینی",
+    "content": "دڵ بە خودا بسپێرە و ترست لە هیچ نەبێت",
+    "authorImage": "https://example.com/mawlana.jpg"
+  }
+]
