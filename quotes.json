@@ -1,23 +1,16 @@
-[
-  {
-    "id": "1",
-    "author": "پێشەوا قازی محەمەد",
-    "type": "سیاسی",
-    "content": "ئێمە کوردین و کوردستان نیشتمانمانە",
-    "authorImage": "https://i.ibb.co/JCFpWvF/qazi.jpg"
-  },
-  {
-    "id": "2",
-    "author": "مەولانا خالید",
-    "type": "ئاینی",
-    "content": "دڵ بە خودا بسپێرە و ترست لە هیچ نەبێت",
-    "authorImage": "https://i.ibb.co/JCFpWvF/qazi.jpg"
-  },
-   {
-    "id": "3",
-    "author": "پێشەوا قازی محەمەد",
-    "type": "سیاسی",
-    "content": "ئێمە کوردین و کوردستان نیشتمانمانە",
-    "authorImage": "https://i.ibb.co/JCFpWvF/qazi.jpg"
-  },
-]
+{
+  "quotes": [
+    {
+      "author": "ناوی نووسەر",
+      "category": "جۆری وتە",
+      "text": "دەقی وتەکە",
+      "id": "1"
+    },
+    {
+      "author": "پیرەمێرد",
+      "category": "نیشتمانی",
+      "text": "ئەی ڕەقیب هەر ماوە قەومی کورد زمان",
+      "id": "2"
+    }
+  ]
+}
