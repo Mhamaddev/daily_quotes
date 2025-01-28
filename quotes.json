@@ -1,19 +1,72 @@
-{
-  "quotes": [
-    {
-      "id": 1,
-      "quote": "خوێندن کلیلی سەرکەوتنە",
-      "name": "مامۆستا ئەحمەد"
-    },
-    {
-      "id": 2,
-      "quote": "بە کار و کۆشش دەگەیتە ئامانج",
-      "name": "name"
-    },
-    {
-      "id": 3,
-      "quote": "ژیان جوانە، جوانتری بکە",
-      "name": "کارزان"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "authorName": "پیرەمێرد",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/piramerd.jpg",
+    "text": "ئەگەر دەتەوێ لە ژیان سەرکەوتوو بیت، فێری لێبوردن و خۆشەویستی بە",
+    "category": "ژیان"
+  },
+  {
+    "id": "2",
+    "authorName": "حاجی قادری کۆیی",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/haji-qadr.jpg",
+    "text": "خوێندن و زانست کلیلی سەرکەوتنە لە هەموو بوارێکدا",
+    "category": "زانست"
+  },
+  {
+    "id": "3",
+    "authorName": "شێرکۆ بێکەس",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/sherko.jpg",
+    "text": "نیشتمان تەنها خاک نییە، بەڵکو ئەو خۆشەویستییەیە کە لە دڵماندا هەیە",
+    "category": "نیشتمان"
+  },
+  {
+    "id": "4",
+    "authorName": "مەحوی",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/mahwi.jpg",
+    "text": "عیشق ئەگەر دەردە، دەرمانیشە هەر خۆی",
+    "category": "خۆشەویستی"
+  },
+  {
+    "id": "5",
+    "authorName": "گۆران",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/goran.jpg",
+    "text": "جوانی لە سادەییدایە",
+    "category": "ژیان"
+  },
+  {
+    "id": "6",
+    "authorName": "نالی",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/nali.jpg",
+    "text": "ئەگەر دڵ نەبێ، ژیان هیچ نییە",
+    "category": "خۆشەویستی"
+  },
+  {
+    "id": "7",
+    "authorName": "هەژار موکریانی",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/hazhar.jpg",
+    "text": "زمان ناسنامەی نەتەوەیە",
+    "category": "زمان"
+  },
+  {
+    "id": "8",
+    "authorName": "عەبدوڵڵا پەشێو",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/peshew.jpg",
+    "text": "ئازادی بەبێ یەکسانی، وەک باڵندەیەکە بەبێ باڵ",
+    "category": "کۆمەڵایەتی"
+  },
+  {
+    "id": "9",
+    "authorName": "لەتیف هەڵمەت",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/latif.jpg",
+    "text": "شیعر زمانی دڵە",
+    "category": "ئەدەب"
+  },
+  {
+    "id": "10",
+    "authorName": "مەولەوی",
+    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/mawlawi.jpg",
+    "text": "خۆشەویستی خودا لە خۆشەویستی مرۆڤەوە دەست پێدەکات",
+    "category": "ئایینی"
+  }
+]
