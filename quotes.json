@@ -1,4 +1,11 @@
-[
+
+{
+    "id": "0",
+    "authorName": "پیرەمێرد",
+    "authorImageUrl": "https://picsum.photos/200",
+    "text": "ئەگەر دەتەوێ لە ژیان سەرکەوتوو بیت، فێری لێبوردن و خۆشەویستی بە",
+    "category": "ژیان"
+  },
   {
     "id": "1",
     "authorName": "پیرەمێرد",
