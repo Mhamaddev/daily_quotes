@@ -2,70 +2,70 @@
   {
     "id": "1",
     "authorName": "پیرەمێرد",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/piramerd.jpg",
+    "authorImageUrl": "https://picsum.photos/200",
     "text": "ئەگەر دەتەوێ لە ژیان سەرکەوتوو بیت، فێری لێبوردن و خۆشەویستی بە",
     "category": "ژیان"
   },
   {
     "id": "2",
     "authorName": "حاجی قادری کۆیی",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/haji-qadr.jpg",
+    "authorImageUrl": "https://picsum.photos/201",
     "text": "خوێندن و زانست کلیلی سەرکەوتنە لە هەموو بوارێکدا",
     "category": "زانست"
   },
   {
     "id": "3",
     "authorName": "شێرکۆ بێکەس",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/sherko.jpg",
+    "authorImageUrl": "https://picsum.photos/202",
     "text": "نیشتمان تەنها خاک نییە، بەڵکو ئەو خۆشەویستییەیە کە لە دڵماندا هەیە",
     "category": "نیشتمان"
   },
   {
     "id": "4",
     "authorName": "مەحوی",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/mahwi.jpg",
+    "authorImageUrl": "https://picsum.photos/200",
     "text": "عیشق ئەگەر دەردە، دەرمانیشە هەر خۆی",
     "category": "خۆشەویستی"
   },
   {
     "id": "5",
     "authorName": "گۆران",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/goran.jpg",
+    "authorImageUrl": "https://picsum.photos/202",
     "text": "جوانی لە سادەییدایە",
     "category": "ژیان"
   },
   {
     "id": "6",
     "authorName": "نالی",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/nali.jpg",
+    "authorImageUrl": "https://picsum.photos/201",
     "text": "ئەگەر دڵ نەبێ، ژیان هیچ نییە",
     "category": "خۆشەویستی"
   },
   {
     "id": "7",
     "authorName": "هەژار موکریانی",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/hazhar.jpg",
+    "authorImageUrl": "https://picsum.photos/202",
     "text": "زمان ناسنامەی نەتەوەیە",
     "category": "زمان"
   },
   {
     "id": "8",
     "authorName": "عەبدوڵڵا پەشێو",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/peshew.jpg",
+    "authorImageUrl": "https://picsum.photos/200",
     "text": "ئازادی بەبێ یەکسانی، وەک باڵندەیەکە بەبێ باڵ",
     "category": "کۆمەڵایەتی"
   },
   {
     "id": "9",
     "authorName": "لەتیف هەڵمەت",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/latif.jpg",
+    "authorImageUrl": "https://picsum.photos/201",
     "text": "شیعر زمانی دڵە",
     "category": "ئەدەب"
   },
   {
     "id": "10",
     "authorName": "مەولەوی",
-    "authorImageUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/images/mawlawi.jpg",
+    "authorImageUrl": "https://picsum.photos/200",
     "text": "خۆشەویستی خودا لە خۆشەویستی مرۆڤەوە دەست پێدەکات",
     "category": "ئایینی"
   }
