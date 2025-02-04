@@ -7,6 +7,23 @@
     "category": "Inspiration",
     "tags": ["self-improvement", "authenticity"],
     "language": "en"
+  },
+  {
+    "id": "2",
+    "content": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "author": "Albert Einstein",
+    "author_image_url": "https://example.com/einstein.jpg",
+    "category": "Humor",
+    "tags": ["science", "wisdom"],
+    "language": "en"
+  },
+  {
+    "id": "3",
+    "content": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost",
+    "author_image_url": "https://example.com/frost.jpg",
+    "category": "Life",
+    "tags": ["wisdom", "life-lessons"],
+    "language": "en"
   }
-  // ... more quotes
 ]
