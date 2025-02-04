@@ -1,79 +1,12 @@
-
-{
-    "id": "0",
-    "authorName": "پیرەمێرد",
-    "authorImageUrl": "https://picsum.photos/200",
-    "text": "ئەگەر دەتەوێ لە ژیان سەرکەوتوو بیت، فێری لێبوردن و خۆشەویستی بە",
-    "category": "ژیان"
-  },
+[
   {
     "id": "1",
-    "authorName": "پیرەمێرد",
-    "authorImageUrl": "https://picsum.photos/200",
-    "text": "ئەگەر دەتەوێ لە ژیان سەرکەوتوو بیت، فێری لێبوردن و خۆشەویستی بە",
-    "category": "ژیان"
-  },
-  {
-    "id": "2",
-    "authorName": "حاجی قادری کۆیی",
-    "authorImageUrl": "https://picsum.photos/201",
-    "text": "خوێندن و زانست کلیلی سەرکەوتنە لە هەموو بوارێکدا",
-    "category": "زانست"
-  },
-  {
-    "id": "3",
-    "authorName": "شێرکۆ بێکەس",
-    "authorImageUrl": "https://picsum.photos/202",
-    "text": "نیشتمان تەنها خاک نییە، بەڵکو ئەو خۆشەویستییەیە کە لە دڵماندا هەیە",
-    "category": "نیشتمان"
-  },
-  {
-    "id": "4",
-    "authorName": "مەحوی",
-    "authorImageUrl": "https://picsum.photos/200",
-    "text": "عیشق ئەگەر دەردە، دەرمانیشە هەر خۆی",
-    "category": "خۆشەویستی"
-  },
-  {
-    "id": "5",
-    "authorName": "گۆران",
-    "authorImageUrl": "https://picsum.photos/202",
-    "text": "جوانی لە سادەییدایە",
-    "category": "ژیان"
-  },
-  {
-    "id": "6",
-    "authorName": "نالی",
-    "authorImageUrl": "https://picsum.photos/201",
-    "text": "ئەگەر دڵ نەبێ، ژیان هیچ نییە",
-    "category": "خۆشەویستی"
-  },
-  {
-    "id": "7",
-    "authorName": "هەژار موکریانی",
-    "authorImageUrl": "https://picsum.photos/202",
-    "text": "زمان ناسنامەی نەتەوەیە",
-    "category": "زمان"
-  },
-  {
-    "id": "8",
-    "authorName": "عەبدوڵڵا پەشێو",
-    "authorImageUrl": "https://picsum.photos/200",
-    "text": "ئازادی بەبێ یەکسانی، وەک باڵندەیەکە بەبێ باڵ",
-    "category": "کۆمەڵایەتی"
-  },
-  {
-    "id": "9",
-    "authorName": "لەتیف هەڵمەت",
-    "authorImageUrl": "https://picsum.photos/201",
-    "text": "شیعر زمانی دڵە",
-    "category": "ئەدەب"
-  },
-  {
-    "id": "10",
-    "authorName": "مەولەوی",
-    "authorImageUrl": "https://picsum.photos/200",
-    "text": "خۆشەویستی خودا لە خۆشەویستی مرۆڤەوە دەست پێدەکات",
-    "category": "ئایینی"
+    "content": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "author_image_url": "https://example.com/oscar_wilde.jpg",
+    "category": "Inspiration",
+    "tags": ["self-improvement", "authenticity"],
+    "language": "en"
   }
+  // ... more quotes
 ]
